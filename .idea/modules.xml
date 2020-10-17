@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/callme/callme.iml" filepath="$PROJECT_DIR$/callme/callme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-spring-security.iml" filepath="$PROJECT_DIR$/sample-spring-security.iml" />
     </modules>
   </component>
